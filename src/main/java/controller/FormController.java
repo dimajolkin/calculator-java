@@ -9,7 +9,6 @@ public class FormController
 {
     private final Calculator calculator = new Calculator();
 
-
     public String actionClick(MouseEvent e, String symbol)
     {
         System.out.println("click by bumber: " + symbol.toLowerCase());

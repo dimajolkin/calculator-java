@@ -17,7 +17,7 @@
         <properties>
           <editable value="false"/>
           <enabled value="true"/>
-          <font name="Consolas" size="14" style="1"/>
+          <font/>
           <lineWrap value="false"/>
           <text value="0"/>
           <wrapStyleWord value="true"/>
